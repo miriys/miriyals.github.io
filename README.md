@@ -8,6 +8,10 @@ You can use resource hints with the ```<link>``` tag. For example:
 <link rel="preconnect" href="//fonts.gstatic.com">
 ```
 
+## Webpagetest runs
+* [With preconnect](https://www.webpagetest.org/result/170605_9R_ZCB/)
+* [Without preconect](https://www.webpagetest.org/result/170605_93_ZCH/)
+
 ## Browser support
 
 As these are relatively new techniques, browser support is not yet universal.
