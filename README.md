@@ -9,8 +9,8 @@ You can use resource hints with the ```<link>``` tag. For example:
 ```
 
 ## Webpagetest runs
-* [With preconnect](https://www.webpagetest.org/result/170605_9R_ZCB/)
-* [Without preconect](https://www.webpagetest.org/result/170605_93_ZCH/)
+* [With preconnect](https://www.webpagetest.org/result/170605_9R_ZCB/2/details/#waterfall_view_step1)
+* [Without preconect](https://www.webpagetest.org/result/170605_93_ZCH/3/details/#waterfall_view_step1)
 
 ## Browser support
 
